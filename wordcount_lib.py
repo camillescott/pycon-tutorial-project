@@ -15,3 +15,6 @@ def daaaangerous(param=0):
     print("I'm the most dangerous function West of the Mississippi, no test "\
           "will cover me!")
     return 3 / param
+
+def moar_dangerous():
+    assert False
